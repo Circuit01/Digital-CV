@@ -49,8 +49,8 @@ with col2:
     st.write(DESCRIPTION)
     st.download_button(
         label="📥 Download Resume",
-        data=b'PDFbyte',  # Assuming PDFbyte is properly defined
-        file_name='resume.pdf',  # Adjust file name accordingly
+        data=b'PDFbyte',  
+        file_name='CSV.pdf',  
         mime="application/pdf",
     )
     st.write("📬", EMAIL)
