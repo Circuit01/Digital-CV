@@ -17,6 +17,8 @@ DESCRIPTION = """
 
 Currently pursuing studies in Cyber Security and IT, with additional knowledge in PHP and SQL.
 """
+st.write("---")
+
 EMAIL = "noahsherry1@gmail.com"
 SOCIAL_MEDIA = {
     "Youtube": "https://www.youtube.com/channel/UCupTDTxhdZ5oGHqCJLleMRA",
